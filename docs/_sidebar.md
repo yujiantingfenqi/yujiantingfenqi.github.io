@@ -1,8 +1,8 @@
 - [:octocat: 首页](/README)
 - :memo: 目录
-   - 第1章：开发入门
+   - 第1章：Spring源码学习
    
-       - [第1节：IDEA 插件怎么开发](/md/idea-plugin/2021-08-27-技术调研IDEA插件怎么开发.md)
+       - [第1节：手撸源码笔记](/md/spring/2022-08-11-手撸笔记.md)
        - [第2节：IDEA 插件怎么发布](/md/idea-plugin/2021-08-29-技术实践IDEA插件怎么发布.md)
    
    - 第2章：基础功能
